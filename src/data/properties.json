@@ -22,7 +22,7 @@
         "images/prop1_5.jpg",
         "images/prop1_6.jpg"
       ],
-      "floorPlan": "images/prop1_floorplan.jpg",
+      "floorPlan": "images/prop1_5.jpg",
       "url": "properties/prop1.html",
       "added": { "month": "October", "day": 12, "year": 2022 }
     },
@@ -41,12 +41,12 @@
       "location": "Crofton Road, Orpington BR6",
       "picture": "images/prop2pic1small.jpg",
       "images": [
-        "images/prop2_1.jpg",
-        "images/prop2_2.jpg",
-        "images/prop2_3.jpg",
-        "images/prop2_4.jpg",
-        "images/prop2_5.jpg",
-        "images/prop2_6.jpg"
+        "images/prop1_1.jpg",
+        "images/prop1_2.jpg",
+        "images/prop1_3.jpg",
+        "images/prop1_4.jpg",
+        "images/prop1_5.jpg",
+        "images/prop_6.jpg"
       ],
       "floorPlan": "images/prop2_floorplan.jpg",
       "url": "properties/prop2.html",
@@ -67,12 +67,13 @@
       "location": "Liverpool Street, London EC2",
       "picture": "images/prop3pic1small.jpg",
       "images": [
-        "images/prop3_1.jpg",
-        "images/prop3_2.jpg",
-        "images/prop3_3.jpg",
-        "images/prop3_4.jpg",
-        "images/prop3_5.jpg",
-        "images/prop3_6.jpg"
+       "images/prop1_1.jpg",
+        "images/prop1_2.jpg",
+        "images/prop1_3.jpg",
+        "images/prop1_4.jpg",
+        "images/prop1_5.jpg",
+        "images/prop1_6.jpg"
+      
       ],
       "floorPlan": "images/prop3_floorplan.jpg",
       "url": "properties/prop3.html",
@@ -93,12 +94,13 @@
       "location": "Regent's Park, London NW1",
       "picture": "images/prop4pic1small.jpg",
       "images": [
-        "images/prop4_1.jpg",
-        "images/prop4_2.jpg",
-        "images/prop4_3.jpg",
-        "images/prop4_4.jpg",
-        "images/prop4_5.jpg",
-        "images/prop4_6.jpg"
+        "images/prop1_1.jpg",
+        "images/prop1_2.jpg",
+        "images/prop1_3.jpg",
+        "images/prop1_4.jpg",
+        "images/prop1_5.jpg",
+        "images/prop1_6.jpg"
+      
       ],
       "floorPlan": "images/prop4_floorplan.jpg",
       "url": "properties/prop4.html",
@@ -119,12 +121,13 @@
       "location": "Southbank, London SE1",
       "picture": "images/prop5pic1small.jpg",
       "images": [
-        "images/prop5_1.jpg",
-        "images/prop5_2.jpg",
-        "images/prop5_3.jpg",
-        "images/prop5_4.jpg",
-        "images/prop5_5.jpg",
-        "images/prop5_6.jpg"
+     "images/prop1_1.jpg",
+        "images/prop1_2.jpg",
+        "images/prop1_3.jpg",
+        "images/prop1_4.jpg",
+        "images/prop1_5.jpg",
+        "images/prop1_6.jpg"
+      
       ],
       "floorPlan": "images/prop5_floorplan.jpg",
       "url": "properties/prop5.html",
@@ -145,12 +148,13 @@
       "location": "Marylebone, London W1",
       "picture": "images/prop6pic1small.jpg",
       "images": [
-        "images/prop6_1.jpg",
-        "images/prop6_2.jpg",
-        "images/prop6_3.jpg",
-        "images/prop6_4.jpg",
-        "images/prop6_5.jpg",
-        "images/prop6_6.jpg"
+     "images/prop1_1.jpg",
+        "images/prop1_2.jpg",
+        "images/prop1_3.jpg",
+        "images/prop1_4.jpg",
+        "images/prop1_5.jpg",
+        "images/prop1_6.jpg"
+      
       ],
       "floorPlan": "images/prop6_floorplan.jpg",
       "url": "properties/prop6.html",
@@ -171,12 +175,13 @@
       "location": "Chelsea, London SW3",
       "picture": "images/prop7pic1small.jpg",
       "images": [
-        "images/prop7_1.jpg",
-        "images/prop7_2.jpg",
-        "images/prop7_3.jpg",
-        "images/prop7_4.jpg",
-        "images/prop7_5.jpg",
-        "images/prop7_6.jpg"
+        "images/prop1_1.jpg",
+        "images/prop1_2.jpg",
+        "images/prop1_3.jpg",
+        "images/prop1_4.jpg",
+        "images/prop1_5.jpg",
+        "images/prop1_6.jpg"
+      
       ],
       "floorPlan": "images/prop7_floorplan.jpg",
       "url": "properties/prop7.html",
